@@ -1,0 +1,4 @@
+airplane2 : candy
+Archway1 : feathers
+Bridge1: la_muse
+Fence1 : wave_crop

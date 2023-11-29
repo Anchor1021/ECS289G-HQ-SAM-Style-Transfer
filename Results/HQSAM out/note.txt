@@ -1,0 +1,9 @@
+Airplane1 : stary_night
+Airplane2 : candy
+Archway1 : feathers
+Archway2 : feathers
+Bag1: feathers
+Bridge1: la_muse
+Clothes1 : stary_night
+Fence1 : wave_crop
+GasStation1: wave_crop
